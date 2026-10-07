@@ -1,4 +1,4 @@
-const C='mobrush-v2';
+const C='mobrush-v1';
 const CORE=['./','./index.html','./manifest.json','./icon-192.png','./icon-512.png'];
 
 self.addEventListener('install',e=>{
